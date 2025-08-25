@@ -12,7 +12,7 @@ bio.introduction()
 
 # Hi there, I'm Max Malyi 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvmalyi/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1503-9798) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Max-Malyi) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FgcRBeUAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvmalyi/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1503-9798) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Max-Malyi) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FgcRBeUAAAAJ) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Max.Malyi@ed.ac.uk)
 
 Welcome to my GitHub profile! I'm a PhD Candidate at the University of Edinburgh, where my research is at the intersection of control engineering, data science, and renewable energy. My goal is to develop intelligent, health-aware control systems that make wind power more reliable, sustainable, and cost-effective.
 
@@ -30,22 +30,25 @@ research_interests --show
 > Machine Learning & LLMs
 ```
 
-### 💻 Technical Skills & Tool-Kit
+### 💻 Actively Used Tool-Kit
 
-<!-- shield badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white) ![OpenFAST](https://img.shields.io/badge/OpenFAST-000000?style=for-the-badge&logo=nrel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-
+<!-- 
 **I’m currently learning:** ...
 
 **I’m open to collaborating on:** ...
 
 **I’d be grateful for help with:** ...
 
-### 🚀 My Projects
+### 🚀 Projects
 
 #### Actively working on:
-- Wind Turbine Reliability Analysis Combining Data from Multiple Farms 
+
+- Wind Turbine Reliability Analysis Combining Data from Multiple Farms % include hyperlinks for ResearchGate project with RG icon & github repo with github icon
 
 #### Completed studies and publications:
-- "Wind Turbine Reliability Analysis Using SCADA and Maintenance Data"
-- "A Comparative Benchmark of Large Language Models for Labelling Wind Turbine Maintenance Logs" ...
+
+- A Comparative Benchmark of Large Language Models for Labelling Wind Turbine Maintenance Logs % format template as a reference with hyperlinks for paper with icon & github repo and github icon
+- Wind Turbine Reliability Analysis Using SCADA and Maintenance Data 
+-->
