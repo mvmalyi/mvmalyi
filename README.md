@@ -4,10 +4,11 @@ Feel free to take inspiration from it for your own profile.
 -->
 
 ```python
-from renewables.specialists import mvmalyi
+import wit
+from phd_researchers import mvmalyi
 from github.profiles import bio
 
-bio.introduction()
+bio.introduction(mvmalyi)
 ```
 
 # Hi there, I'm Max Malyi 👋
