@@ -33,7 +33,7 @@ research_interests --show
 
 ### 💻 Actively Used Tool-Kit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white) ![OpenFAST](https://img.shields.io/badge/OpenFAST-000000?style=for-the-badge&logo=nrel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FFBF00?style=for-the-badge&logo=mathworks&logoColor=black) ![Simulink](https://img.shields.io/badge/Simulink-DD2A2A?style=for-the-badge&logo=simulink&logoColor=white) ![OpenFAST](https://img.shields.io/badge/OpenFAST-00A45B?style=for-the-badge&logo=nrel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-6A0DAD?style=for-the-badge&logo=ollama&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
 ### 📑 My Recent Work
