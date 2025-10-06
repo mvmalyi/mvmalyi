@@ -15,7 +15,7 @@ bio.introduction(mvmalyi)
 
 [![University Profile](https://img.shields.io/badge/University_Profile-002A5C?style=for-the-badge&logo=theuniversityofedinburgh&logoColor=white)](https://eng.ed.ac.uk/about/people/mr-max-malyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvmalyi/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1503-9798) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Max-Malyi) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FgcRBeUAAAAJ) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Max.Malyi@ed.ac.uk)
 
-Welcome to my GitHub profile! I'm a PhD Candidate at the University of Edinburgh, where my research is at the intersection of control engineering, data science, and renewable energy. My goal is to develop intelligent, health-aware control systems that make wind power more reliable, sustainable, and cost-effective.
+Welcome to my GitHub profile! I'm a PhD Candidate at the University of Edinburgh, where my research is at the intersection of data science, reliability engineering, and control optimisation. My goal is to contribute to the development of intelligent, health-aware control strategies that make wind turbines more reliable, sustainable, and cost-effective.
 
 ### 🔬 Research Focus & Interests
 
@@ -35,21 +35,12 @@ research_interests --show
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white) ![OpenFAST](https://img.shields.io/badge/OpenFAST-000000?style=for-the-badge&logo=nrel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<!-- 
-**I’m currently learning:** ...
 
-**I’m open to collaborating on:** ...
+### 📑 My Recent Work
 
-**I’d be grateful for help with:** ...
+- Malyi, M., Shek, J., & Biscaya, A. (2025). Exploratory Semantic Reliability Analysis of Wind Turbine Maintenance Logs using Large Language Models. [Preprint, arXiv:2509.22366](https://arxiv.org/abs/2509.22366). Related GitHub repo: [llm-semantic-maintenance-logs-analysis](https://github.com/mvmalyi/llm-semantic-maintenance-logs-analysis)
+- Malyi, M., Shek, J., McDonald, A., & Biscaya, A. (2025). A Comparative Benchmark of Large Language Models for Labelling Wind Turbine Maintenance Logs. [Preprint, arXiv:2509.06813](https://arxiv.org/abs/2509.06813). Related GitHub repo: [wind-farm-maintenance-logs-labelling-with-llms](https://github.com/mvmalyi/wind-farm-maintenance-logs-labelling-with-llms)
 
-### 🚀 Projects
+### 🔍 Work in Progress:
 
-#### Actively working on:
-
-- Wind Turbine Reliability Analysis Combining Data from Multiple Farms % include hyperlinks for ResearchGate project with RG icon & github repo with github icon
-
-#### Completed studies and publications:
-
-- A Comparative Benchmark of Large Language Models for Labelling Wind Turbine Maintenance Logs % format template as a reference with hyperlinks for paper with icon & github repo and github icon
-- Wind Turbine Reliability Analysis Using SCADA and Maintenance Data 
--->
+- Wind Turbine Reliability Analysis Combining Operational Data from Multiple Farms
