@@ -40,7 +40,7 @@ research_interests --show
 
 - **Malyi, M., Shek, J., & Biscaya, A. (2025). Exploratory Semantic Reliability Analysis of Wind Turbine Maintenance Logs using Large Language Models.** <br> Preprint: [arXiv:2509.22366](https://arxiv.org/abs/2509.22366). <br> Related GitHub repo: [llm-semantic-maintenance-logs-analysis](https://github.com/mvmalyi/llm-semantic-maintenance-logs-analysis)
 - **Malyi, M., Shek, J., McDonald, A., & Biscaya, A. (2025). A Comparative Benchmark of Large Language Models for Labelling Wind Turbine Maintenance Logs.** <br> Preprint: [arXiv:2509.06813](https://arxiv.org/abs/2509.06813). <br> Related GitHub repo: [wind-farm-maintenance-logs-labelling-with-llms](https://github.com/mvmalyi/wind-farm-maintenance-logs-labelling-with-llms)
-- **Malyi, M., Shek, J., McDonald, A. (2025). Wind Turbine Reliability Analysis Using SCADA and Maintenance Data.** <br> URL: [doi:10.1007/978-3-032-08953-3_18]([https://arxiv.org/abs/2509.06813](https://doi.org/10.1007/978-3-032-08953-3_18)). <br> Published in the following proceedings: *Solar and Wind Beyond Limits for Technology, Policy, and Practice – 5th Annual Solar and Wind Power Conference*
+- **Malyi, M., Shek, J., McDonald, A. (2025). Wind Turbine Reliability Analysis Using SCADA and Maintenance Data.** <br> URL: [doi:10.1007/978-3-032-08953-3_18](https://doi.org/10.1007/978-3-032-08953-3_18). <br> Published in the following proceedings: *Solar and Wind Beyond Limits for Technology, Policy, and Practice – 5th Annual Solar and Wind Power Conference*
 
 ### 🔍 Work in Progress:
 
